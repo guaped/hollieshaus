@@ -1,0 +1,8 @@
+export default function Success() {
+  return (
+    <div style={{ padding: 40 }}>
+      <h1>Thank you for your order 💿</h1>
+      <a href="/">Back to shop</a>
+    </div>
+  );
+}
